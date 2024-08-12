@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_dabbos_subscription_dabbos_subscription,dabbos_subscription.dabbos_subscription,model_dabbos_subscription_dabbos_subscription,base.group_user,1,1,1,1
